@@ -17,5 +17,8 @@ int main()
         printf(" el elemntos es %d \n ", listaNumber[i]);
     };
 
+    char prueba[] = "hola como estan";
+    printf("%s", prueba);
+
     return 0;
 }
